@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1645615369 source:k:\workspace\github\oop-cpp-samples\classes\bankaccount\bankaccount.cpp
+	"BankAccount.h"
+
+1645615396 k:\workspace\github\oop-cpp-samples\classes\bankaccount\bankaccount.h
+
+1645615369 source:k:\workspace\github\oop-cpp-samples\classes\bankaccount\main.cpp
+	<iostream>
+	"BankAccount.h"
+
