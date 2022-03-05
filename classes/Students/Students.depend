@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1646509362 source:k:\workspace\github\oop-cpp-samples\classes\students\main.cpp
+	<iostream>
+	"Student.h"
+
+1646509311 k:\workspace\github\oop-cpp-samples\classes\students\student.h
+	<string>
+
