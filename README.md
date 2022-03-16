@@ -3,3 +3,7 @@
 1. Simple BankAccount Class
 2. Simple Player Class
 3. Simple Student Class
+## Study Cases:
+1. Contact Manager
+   - Starter Files
+   - V1 (Composition Classes)
