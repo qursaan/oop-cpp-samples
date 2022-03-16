@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1647049652 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\main.cpp
+	<iostream>
+	"contacts.h"
+
+1647047047 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\src\address.cpp
+	"address.h"
+
+1647047047 k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\include\address.h
+	<string>
+	<iostream>
+
+1647049664 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\src\contacts.cpp
+	"contacts.h"
+
+1647049652 k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\include\contacts.h
+	"user.h"
+	<string>
+
+1647047047 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\src\email.cpp
+	"email.h"
+
+1647047047 k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\include\email.h
+	<string>
+	<iostream>
+
+1647046856 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\src\phone.cpp
+	"phone.h"
+
+1647047070 k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\include\phone.h
+	<string>
+	<iostream>
+
+1647048687 source:k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\src\user.cpp
+	"user.h"
+
+1647048667 k:\workspace\github\oop-cpp-samples\study-cases\contactmanagerapp\include\user.h
+	<ctime>
+	<string>
+	<iostream>
+	"phone.h"
+	"email.h"
+	"address.h"
+
