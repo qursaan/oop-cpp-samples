@@ -8,3 +8,5 @@
 1. Contact Manager
    - Starter Files
    - V1 (Composition Classes)
+2. Client Managment
+   - Starter V1 (Composition Classes)
